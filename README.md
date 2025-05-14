@@ -27,7 +27,7 @@ A Dual Axis Solar Tracking System is an advanced mechanism designed to optimize 
 ### 💻 Software – Code to manage logic and motor control.
 
 ## 🛠️ Construction Steps
-Design the Frame – Allows movement along horizontal and vertical axes.
+### Design the Frame – Allows movement along horizontal and vertical axes.
 
 ### Install Motors – Control panel tilt and rotation.
 
