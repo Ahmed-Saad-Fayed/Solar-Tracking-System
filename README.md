@@ -62,7 +62,7 @@ While initial costs may be higher than fixed systems, the **significant efficien
 
 ---
 
-## 🚀 Future Improvements (Optional)
+## 🚀 Future Improvements
 
 - Add real-time data logging with SD card  
 - Integrate weather sensors for intelligent control  
